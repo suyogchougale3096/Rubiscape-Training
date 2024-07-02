@@ -1,0 +1,40 @@
+.bg-navbar-color {
+  background-color: #f0f0f0;
+}
+
+.language-size {
+  font-size: 15px;
+}
+
+.container {
+  font-size: 12px;
+}
+
+.nav-link {
+  color: #000;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.nav-link:hover {
+  background-color: #f8f9fa; /* Light grey background */
+  color: #007bff; /* Blue text color */
+}
+
+.glance {
+  box-shadow: 1px 2px 4px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 1px 2px 4px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 2px 4px 0px rgba(0, 0, 0, 0.75);
+  border-radius: 5px;
+}
+
+.catagory {
+  text-decoration: underline;
+}
+
+.cards {
+  border-radius: 5px;
+}
+
+.hbar {
+  border-radius: 6px;
+}
