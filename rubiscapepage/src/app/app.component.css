@@ -6,6 +6,10 @@
   font-size: 15px;
 }
 
+.status {
+  font-size: 13px;
+}
+
 .container {
   font-size: 12px;
 }
@@ -38,3 +42,25 @@
 .hbar {
   border-radius: 6px;
 }
+
+.bold{
+  font-weight: bold;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.main-card{
+  box-shadow: 1px 2px 4px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 1px 2px 4px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 2px 4px 0px rgba(0, 0, 0, 0.75);
+  margin: 5px;
+  
+}
+
+.border-opacity{
+  --bs-border-opacity: .1;
+}
+
+
